@@ -23,6 +23,7 @@ namespace WpfApplication1
         {
             InitializeComponent();
             string str = "Amol";
+            string str = "Jagannath";
         }
     }
 }
