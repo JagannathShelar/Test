@@ -22,6 +22,7 @@ namespace WpfApplication1
         public Window1()
         {
             InitializeComponent();
+            string str = "Amol";
         }
     }
 }
